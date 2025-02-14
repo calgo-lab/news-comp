@@ -14,16 +14,24 @@ First Table
 
 Second Table
 
-| geschätzter politischer Standpunkt   |   Übereinstimmung (mit Label) |
-|:-------------------------------------|------------------------------:|
-| Label1                               |                        80.85  |
-| LongerLabel2                         |                         2.234 |
-| L3                                   |                         0.9   |
+| geschätzter politischer Standpunkt   |   Übereinstimmung mit Label (in Prozent) |
+|:-------------------------------------|:-----------------------------------------|
+| Label1                               |                                  80.85   |
+| LongerLabel2                         |                                  2.234   |
+| L3                                   |                                    0.9   |
 
 Third Table
 
+| geschätzter politischer Standpunkt   |   Übereinstimmung mit Label   |
+|:-------------------------------------|:------------------------------|
+| Label1                               |                       80.85 % |
+| LongerLabel2                         |                       2.234 % |
+| L3                                   |                        0.9 %  |
+
+Fourth Table
+
 | geschätzter politischer Standpunkt   |   Übereinstimmung (mit Label) |
-|-------------------------------------:|:------------------------------|
-| Label1                               |                        80.85  |
-| LongerLabel2                         |                         2.234 |
-| L3                                   |                         0.9   |
+|:-------------------------------------|:-----------------------------:|
+| Label1                               |                       80.85 % |
+| LongerLabel2                         |                       2.234 % |
+| L3                                   |                        0.9 %  |
