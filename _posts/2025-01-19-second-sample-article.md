@@ -35,3 +35,6 @@ Fourth Table
 | Label1                               |                       80.85 % |
 | LongerLabel2                         |                       2.234 % |
 | L3                                   |                        0.9 %  |
+
+<font color=DC143C>Example</font>
+<font color=red>Example</font>
